@@ -1,0 +1,9 @@
+{
+  "main_url": "https://example.cypress.io/",
+  "querying_url": "https://example.cypress.io/commands/querying",
+  "querying_get_url": "https://docs.cypress.io/api/commands/get",
+  "querying_contains_url": "https://docs.cypress.io/api/commands/contains",
+  "querying_within_url": "https://docs.cypress.io/api/commands/within",
+  "querying_root_url": "https://docs.cypress.io/api/commands/root",
+  "window_url": "https://example.cypress.io/commands/window"
+}

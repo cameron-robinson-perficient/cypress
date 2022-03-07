@@ -1,0 +1,8 @@
+{
+ "watchForFileChanges": false,
+ "defaultcommandTimeout":10000,
+ "baseUrl": "http://example.cypress.io/",
+ "viewportWidth": 1920,
+ "viewportHeight": 1080,
+ "screenShotOnRunFailure":false
+}
